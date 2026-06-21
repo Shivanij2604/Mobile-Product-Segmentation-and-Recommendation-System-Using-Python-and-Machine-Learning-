@@ -1,2 +1,1 @@
-# Mobile-Product-Segmentation-and-Recommendation-System-Using-Python-and-Machine-Learning-
-📱 Mobile Product Segmentation &amp; Recommendation System — K-Means clustering and cosine similarity-based recommendation system built on 50K+ global mobile reviews. Segments users into Low Satisfaction, Best Value, and Premium clusters and recommends products by feature similarity. Deployed via Streamlit with interactive EDA dashboards.
+📱 Mobile Product Segmentation & Recommendation System using Python and Machine Learning. K-Means clustering on 50K+ mobile reviews segments users into 3 behavioral clusters, while Cosine Similarity powers personalized product recommendations. Deployed with Streamlit featuring interactive dashboards, analytics, and recommendation engine.
